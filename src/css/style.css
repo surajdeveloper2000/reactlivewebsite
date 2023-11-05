@@ -1,0 +1,79 @@
+/* navbar section start  */
+.navbar-section a.navbar-brand {
+    font-size: 50px;
+    font-weight: 700;
+    color: #04273B;
+}
+
+a.nav-link {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    margin: 0px 10px;
+
+}
+
+button.btn.btn-outline-yellow {
+    width: 145px;
+    height: 45px;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #CCAA72;
+    border-radius: 6px;
+    color: white;
+    text-transform: uppercase;
+    margin: 0px 10px 0px 15px;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    height: 80px;
+}
+
+button.btn.btn-outline-blue {
+    width: 212px;
+    height: 45px;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #04273B;
+    border-radius: 6px;
+    color: white;
+    text-transform: uppercase;
+}
+
+/* navbar section end */
+
+/* footer section  */
+.footer-section {
+    padding: 100px 0;
+    background-color: #04273B;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-section .fa-solid.fa-angle-right {
+    padding: 6px 11px;
+}
+
+.footer-section h4 {
+    padding: 0px 10px;
+}
+
+.footer-section button.btn.btn-primary.py-2.position-absolute.top-0.end-0.mt-2.me-2 {
+    background-color: #CCAA72;
+    border: none;
+}
+
+.footer-section p.mb-2 {
+    display: flex;
+    gap: 10px;
+}
+
+.footer-section .pt-2 {
+    padding-top: .5rem;
+    gap: 10px;
+}
